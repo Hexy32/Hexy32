@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Hexy32
-- 👀 I’m interested in coding, gaming, problem solving, and more.
-- 🌱 I’m currently learning Lua and C++, proficient in JavaScript
-- 📫 How to reach me: Not Taking Calls
+Hello I'm Hex, I'm a front end web developer, I dabble with Lua, C# + .NET, and graphic design.
 
 <!---
 Hexy32/Hexy32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
