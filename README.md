@@ -69,6 +69,7 @@ self-motivated, and communicative team player.
 
 ![And many more](https://img.shields.io/badge/And%20Many%20More...-272727?style=for-the-badge)
 
+<!---
 <br/>
 
 ![WakaTime Stats](https://github.com/Hexy32/Hexy32/assets/98916272/6a3f1898-e9ac-4fd5-bbf2-44c925ae48f5)
@@ -76,7 +77,6 @@ self-motivated, and communicative team player.
 
 ![Drake's Coding Time](https://github-readme-stats-beta-murex.vercel.app/api/wakatime?username=drakelefevers&layout=compact)
 
-<!---
 Hexy32/Hexy32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
