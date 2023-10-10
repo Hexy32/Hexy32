@@ -4,7 +4,7 @@
 
 I am a self-taught web developer with 5+ years of experience in creating and launching successful projects. 
 Passionate about learning new skills and concepts in computer science and graphic design. Creative, 
-self-motivated, and communicative team player.
+self-motivated, and a communicative team player.
 
 ### Facts about me
 
